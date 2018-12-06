@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Coding Challenge Lab 2.1</string>
+    <string name="button_first">first</string>
+    <string name="button_third">third</string>
+    <string name="button_second">second</string>
+    <string name="this_button_does_not_work">this button does not work</string>
+    <string name="this_is_the_second_schreen">This is the second schreen</string>
+    <string name="this_is_the_third_schreen">this is the third schreen</string>
+</resources>
